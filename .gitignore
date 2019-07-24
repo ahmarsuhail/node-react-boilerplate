@@ -1,0 +1,6 @@
+node_modules
+public/dist/react_bundle.js
+.cache-loader
+
+# misc
+.DS_Store

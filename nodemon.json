@@ -1,0 +1,8 @@
+{
+    "events": {
+        "start": "npm run build-react"
+    },
+    "ignore": [
+        "public/dist"
+    ]
+}
